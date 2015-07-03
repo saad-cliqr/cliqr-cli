@@ -1,0 +1,2 @@
+# cliqr-cli
+CliQr CLI
